@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "911974139625",
+    "firebase_url": "https://mtcna-e8f82.firebaseio.com",
+    "project_id": "mtcna-e8f82",
+    "storage_bucket": "mtcna-e8f82.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:911974139625:android:7285dc85a49cdf70891278",
+        "android_client_info": {
+          "package_name": "academy.mikrotik.mtcna"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "911974139625-jpn34brc4qpbf82ntkgp1jr5o6u5s92k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBnkxbVZF0mfwrRaO7WcOY9aLBKTLfXiNk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "911974139625-jpn34brc4qpbf82ntkgp1jr5o6u5s92k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
